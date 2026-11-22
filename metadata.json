@@ -1,0 +1,6 @@
+{
+  "name": "Termux++",
+  "description": "Terminal Linux/POSIX avancé avec gestionnaire de paquets pkg, compilateur/exécuteur C++, interpréteur Python 3, éditeur nano, sqlite3 et outils système.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
